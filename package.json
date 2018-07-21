@@ -1,0 +1,22 @@
+{
+  "name": "english-proxy.com",
+  "version": "1.0.0",
+  "description": "server for english project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen06/english-proxy.git"
+  },
+  "author": "tim nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyen06/english-proxy/issues"
+  },
+  "homepage": "https://github.com/nguyen06/english-proxy#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
